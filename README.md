@@ -1,6 +1,6 @@
 # Welcome to My personal site
 
-### I am Chengpeng Hu, currently a undergraduate  student in group of Dr. Jialin Liu and Prof. Xin Yao.
+### I am Chengpeng Hu, currently an undergraduate  student in group of Dr. Jialin Liu and Prof. Xin Yao.
 
 
 
@@ -26,15 +26,19 @@ What is uncertainty in RL? How to estimate the uncertainty？What can uncertaint
 
 #### General Video Game Playing
 
-Reinforcement learning  has shown a great performance in board game and video game, while it is
+Supervisors: Dr. Jialin Liu and Prof. Xin Yao
 
-generalization remains under-explored. We design  a novel reinforcement learning agent, called Arcane, for general video game playing. Arcane shows robust performance on the game set of 2020 General Video Game AI Learning Competition. And I also make some contribution to [SUSTech  version](https://github.com/SUSTechGameAI/GVGAI_GYM) of GVGAI framework.
+Reinforcement learning  has shown a great performance in board game and video game, while it is generalization remains under-explored. We design  a novel reinforcement learning agent, called Arcane, for general video game playing. Arcane shows robust performance on the game set of 2020 General Video Game AI Learning Competition. And I also make some contribution to [SUSTech  version](https://github.com/SUSTechGameAI/GVGAI_GYM) of GVGAI framework.
+
+### Simultaneous Localization and Mapping with millimeter-wave Radar
+Supervisor: Dr. Jin Zhang
+I implement a matching algorithm for localization and mapping and make numerical experiments in a walking robot with millimeter-wave radar to ensure the robustness of the algorithm
 
 ## EXPERIENCE
 
 ### Intern in UBTECH
 
-I have got a intern in navigation and localization group, Shenzhen Research Institute, UBTECH. At this intern, I developed an Android application for robots controlling. And I also designed a mapping tool for the application.
+I have got an intern in navigation and localization group, Shenzhen Research Institute, UBTECH. At this intern, I developed an Android application for robots controlling. And I also designed a mapping tool for the application.
 
 
 
@@ -51,22 +55,3 @@ A voice game was developed with trained NLP model  for XiaoAI, a voice assistant
 ## Publication
 
 1. **Chengpeng Hu**, Ziqi Wang, Tianye Shu, Yang Tao, Hao Tong, Julian Togelius, Xin Yao, Jialin Liu. "Robust Reinforcement Learning for General Video Game Playing." arXiv preprint arXiv:2011.05622 (2020). Submitted to IEEE Transaction on Games for possible publication.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
