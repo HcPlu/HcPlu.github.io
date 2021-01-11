@@ -1,15 +1,14 @@
 # Welcome to My personal site
 
- I am Chengpeng Hu, currently a undergraduate  student in group of Dr. Jialin Liu and Prof. Xin Yao.
+### I am Chengpeng Hu, currently a undergraduate  student in group of Dr. Jialin Liu and Prof. Xin Yao.
+
 
 
 ## EDUCATION
 
- I am expected to graduate from Southern University of Science and Technology with a Bachelor degree at July 2021.
+I am expected to graduate from Southern University of Science and Technology with a Bachelor degree at July 2021.
 
-
-
-## Academic  Projects
+# Academic  Projects
 
 ### EMO2021 HUAWEI Logistics Competition
 
@@ -26,6 +25,40 @@ Supervisors: Dr. Jialin Liu and Prof. Xin Yao
 What is uncertainty in RL? How to estimate the uncertainty？What can uncertainty help? To answer these questions, with my 	partners I explore lots of former approaches about uncertainty estimation. And it is found that uncertainty estimation help 	RL agents for exploration and exploitation.
 
 #### General Video Game Playing
+
+Reinforcement learning  has shown a great performance in board game and video game, while it is
+
+generalization remains under-explored. We design  a novel reinforcement learning agent, called Arcane, for general video game playing. Arcane shows robust performance on the game set of 2020 General Video Game AI Learning Competition. And I also make some contribution to [SUSTech  version](https://github.com/SUSTechGameAI/GVGAI_GYM) of GVGAI framework.
+
+## EXPERIENCE
+
+### Intern in UBTECH
+
+I have got a intern in navigation and localization group, Shenzhen Research Institute, UBTECH. At this intern, I developed an Android application for robots controlling. And I also designed a mapping tool for the application.
+
+
+
+## AWARDS
+
+### Asia Supercomputer Community Second Class Prize
+
+I have attend 2018 Asia supercomputer Community and won a second class prize.
+
+### XiaoAI Skill Development Competition Thrid Prize
+
+A voice game was developed with trained NLP model  for XiaoAI, a voice assistant introduced by XiaoMi company.
+
+## Publication
+
+1. **Chengpeng Hu**, Ziqi Wang, Tianye Shu, Yang Tao, Hao Tong, Julian Togelius, Xin Yao, Jialin Liu. "Robust Reinforcement Learning for General Video Game Playing." arXiv preprint arXiv:2011.05622 (2020). Submitted to IEEE Transaction on Games for possible publication.
+
+
+
+
+
+
+
+
 
 
 
