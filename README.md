@@ -1,6 +1,6 @@
 # Welcome to My personal site
 
-### I am Chengpeng Hu, currently an undergraduate  student in group of Dr. Jialin Liu and Prof. Xin Yao.
+### I am Chengpeng Hu, currently a undergraduate  student in group of Dr. Jialin Liu and Prof. Xin Yao.
 
 
 
@@ -12,6 +12,8 @@ I am expected to graduate from Southern University of Science and Technology wit
 
 ### EMO2021 HUAWEI Logistics Competition
 
+Oct. 2020 -- Present
+
 Supervisors: Dr. Jialin Liu and Prof. Xin Yao
 
 The Competition aims to solve Vehicle Routing and Bin Packing problems, called the Split Delivery Vehicle Routing Problems with three-Dimensional loading constraints here. I attend this competition with my teammate, supervised by Dr. Jialin Liu and Prof. Xin Yao. We first formulate this problem with strict mathematic notation and will use some hybrid algorithm to solve it.
@@ -20,17 +22,24 @@ The Competition aims to solve Vehicle Routing and Bin Packing problems, called t
 
 #### Uncertainty Estimation in Reinforcement Learning 
 
+Sep. 2020 -- Present
+
 Supervisors: Dr. Jialin Liu and Prof. Xin Yao
 
 What is uncertainty in RL? How to estimate the uncertainty？What can uncertainty help? To answer these questions, with my 	partners I explore lots of former approaches about uncertainty estimation. And it is found that uncertainty estimation help 	RL agents for exploration and exploitation.
 
 #### General Video Game Playing
 
+Feb. 2020 -- Sep.2020
+
 Supervisors: Dr. Jialin Liu and Prof. Xin Yao
 
 Reinforcement learning  has shown a great performance in board game and video game, while it is generalization remains under-explored. We design  a novel reinforcement learning agent, called Arcane, for general video game playing. Arcane shows robust performance on the game set of 2020 General Video Game AI Learning Competition. And I also make some contribution to [SUSTech  version](https://github.com/SUSTechGameAI/GVGAI_GYM) of GVGAI framework.
 
-### Simultaneous Localization and Mapping with millimeter-wave Radar
+### Simultaneous Localization and Mapping with Millimeter-Wave Radar
+
+Sep. 2019 -- Feb. 2020
+
 Supervisor: Dr. Jin Zhang
 I implement a matching algorithm for localization and mapping and make numerical experiments in a walking robot with millimeter-wave radar to ensure the robustness of the algorithm
 
@@ -38,7 +47,9 @@ I implement a matching algorithm for localization and mapping and make numerical
 
 ### Intern in UBTECH
 
-I have got an intern in navigation and localization group, Shenzhen Research Institute, UBTECH. At this intern, I developed an Android application for robots controlling. And I also designed a mapping tool for the application.
+Jan. 2020 -- May 2020
+
+I have got a intern in navigation and localization group, Shenzhen Research Institute, UBTECH. At this intern, I developed an Android application for robots controlling. And I also designed a mapping tool for the application.
 
 
 
