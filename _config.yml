@@ -1,3 +1,9 @@
 title: "Chengpeng Hu"
 description: "HcPlu@outlook.com"
 theme: jekyll-theme-slate
+social-network-links:
+  email: "HcPlu@outlook.com"
+author: "Chengpeng Hu"
+navbar-links:
+  About Me: "aboutme"
+  Author's home: "https://github.com/HcPlu"
