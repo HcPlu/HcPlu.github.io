@@ -1,4 +1,4 @@
-# Welcome to My persenal site
+# Welcome to My personal site
 
  I am Chengpeng Hu, currently a undergraduate  student in group of Dr. Jialin Liu and Prof. Xin Yao.
 
