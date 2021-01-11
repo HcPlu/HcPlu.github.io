@@ -1,11 +1,11 @@
 
-### I am Chengpeng Hu, currently a undergraduate  student in group of Dr. Jialin Liu and Prof. Xin Yao.
+ I am Chengpeng Hu, currently a undergraduate  student in group of Dr. Jialin Liu and Prof. Xin Yao.
 
 
 
 ## EDUCATION
 
-#### I am expected to graduate from Southern University of Science and Technology with a Bachelor degree at July 2021.
+ I am expected to graduate from Southern University of Science and Technology with a Bachelor degree at July 2021.
 
 
 
