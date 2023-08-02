@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chengpeng Hu. Currently, I am a graduate student at the Department of Computer Science and Engineering, Southern University of Science and Technology, under the supervision of Dr. Jialin Liu and Prof. Xin Yao, with an expected graduation in July 2024.
+My name is Chengpeng Hu. Currently, I am a graduate student at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), under the supervision of Dr. Jialin Liu and Prof. Xin Yao, with an expected graduation in July 2024.
 
 My research interest includes real-time controlling, game AI, reinforcement learning and evolutionary computations.
 
