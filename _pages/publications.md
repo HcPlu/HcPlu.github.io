@@ -14,5 +14,5 @@ author_profile: true
 {% assign total_items = site.publications.size %}
 {% for post in site.publications reversed %}
     {% assign index = total_items | minus: forloop.index0 %} 
-  <p>{{ index }}. {{post.citation}}</p>
+  <p>{{ index }}. {{post.citation}} <a href="{{ post.paperurl }}"><u>[pdf]</u></a></p>
 {% endfor %}
