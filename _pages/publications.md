@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign total_items = site.publications.size %}
+<!-- {% assign total_items = site.publications.size %}
 {% for post in site.publications reversed %}
     {% assign index = total_items | minus: forloop.index0 %} 
   <p>{{ index }}.     {% assign citation_parts = post.citation | split: ', ' %}
@@ -39,4 +39,6 @@ author_profile: true
       {% endif %}
   
   </p>
-{% endfor %}
+{% endfor %} -->
+
+<p>1. </p>
