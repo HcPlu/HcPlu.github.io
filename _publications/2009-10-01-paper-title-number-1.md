@@ -2,11 +2,12 @@
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2021-10-01
+# venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Piyuan Pei, Chengpeng Hu, Jialin Liu, Yi Mei and Xin Yao. “Bi-objective splitting delivery VRP with loading
+constraints and restricted access”, in 2021 IEEE Symposium Series on Computational Intelligence (SSCI), pp. 1-9, 2021.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
