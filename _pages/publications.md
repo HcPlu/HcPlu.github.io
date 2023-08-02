@@ -32,5 +32,11 @@ author_profile: true
     {% else %}
       {{ part }}{% unless forloop.last %}, {% endunless %}
     {% endif %}
-  {% endfor %} <a  href="{{ post.paperurl }}"><u>[pdf]</u></a></p>
+  {% endfor %} 
+  {% if post.paperurl %}
+  <a  href="{{ post.paperurl }}"><u>[pdf]</u></a>
+        {% else %}
+      {% endif %}
+  
+  </p>
 {% endfor %}
