@@ -14,8 +14,8 @@ My research interest includes real-time controlling, game AI, reinforcement lear
 
 Education
 -----
-* B.S. in Computer Science, Southern University of Science and Technology, 2021
-* M.S. in Electronic Science and Technology, Southern University of Science and Technology, 2024 (expected)
+* B.E. in Computer Science, Southern University of Science and Technology, 2021
+* M.E. in Electronic Science and Technology, Southern University of Science and Technology, 2024 (expected)
 
 Work experience
 -----
