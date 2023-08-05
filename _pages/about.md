@@ -7,6 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+    .text-justify {
+      text-align: justify;
+      text-align-last: justify; /* 两端对齐属性 */
+    }
+  </style>
 <p class="text-justify">
 My name is Chengpeng Hu. Currently, I am currently a master student at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), under the supervision of <a href = 'http://www.liujialin.tech/index.html'> Dr. Jialin Liu </a> and <a href = 'https://cse.sustech.edu.cn/faculty/~xiny/'>Prof. Xin Yao </a>, with an expected graduation in July 2024. I received my B.E. degree in computer science and technology from Southern University of Science and Technology in 2021.
 
