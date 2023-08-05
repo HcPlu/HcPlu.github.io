@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Chengpeng Hu. Currently, I am a graduate student at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), under the supervision of <a href = 'http://www.liujialin.tech/index.html'> Dr. Jialin Liu </a> and <a href = 'https://cse.sustech.edu.cn/faculty/~xiny/'>Prof. Xin Yao </a>, with an expected graduation in July 2024. I am also with <a href = 'https://aingames.cn/'> Learning and Optimization in Games (LOG) Group</a> and <a href = 'https://cse.sustech.edu.cn/faculty/~xiny/'>OPtimization And Learning (OPAL) laboratory </a>.
+My name is Chengpeng Hu. Currently, I am currently a master student at the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), under the supervision of <a href = 'http://www.liujialin.tech/index.html'> Dr. Jialin Liu </a> and <a href = 'https://cse.sustech.edu.cn/faculty/~xiny/'>Prof. Xin Yao </a>, with an expected graduation in July 2024. I received my BEng in computer science and technology from Southern University of Science and Technology in 2021.
+
+I am also with <a href = 'https://aingames.cn/'> Learning and Optimization in Games (LOG) Group</a> and <a href = 'https://cse.sustech.edu.cn/faculty/~xiny/'>OPtimization And Learning (OPAL) laboratory </a>.
 
 My research interests include real-time controlling with safty guarantee, game AI, reinforcement learning and evolutionary computations.
 
