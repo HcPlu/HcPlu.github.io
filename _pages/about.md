@@ -10,7 +10,6 @@ redirect_from:
 <style>
     .text-justify {
       text-align: justify;
-      text-align-last: justify; /* 两端对齐属性 */
     }
   </style>
 <p class="text-justify">
