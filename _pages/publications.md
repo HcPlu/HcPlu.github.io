@@ -43,20 +43,38 @@ author_profile: true
 <p><sup>*</sup> equal contribution.</p>
 <!-- <p>9. <b>Chengpeng Hu</b>, Ziming Wang, Jialin Liu and Xin Yao. “Dynamic material handling through adaptive constrained
 evolutionary learning”, 2023 (on-going). </p> -->
-<p>7. Shuo Huang, <b>Chengpeng Hu</b>, Julian Togelius, Jialin Liu. “Generating redstone style cities in Minecraft”, IEEE
-Conference on Games (CoG), 2023. (accepted) </p>
-<p>6. Yunlong Zhao<sup>*</sup>, <b>Chengpeng Hu<sup>*</sup></b>, Jialin Liu. “Playing with Monte-carlo tree search”, IEEE Computational Intelligence Magazine, 2023 (under revision). </p>
-<p>5. <b>Chengpeng Hu</b>, Yunlong Zhao, Ziqi Wang, Haocheng Du, Jialin Liu. “Game-based platforms for artificial
-intelligence research”, IEEE Transactions on Artificial Intelligence, 2023 (under review) </p>
-<p>4. <b>Chengpeng Hu</b>, Ziming Wang, Jialin Liu, Junyi Wen, Bifei Mao, Xin Yao. “Constrained reinforcement learning for
-dynamic material handling”, in 2023 International Joint Conference on Neural Networks (IJCNN), 2023 </p>
-<p>3. <b>Chengpeng Hu</b>, Jiyuan Pei, Jialin Liu, Xin Yao. “Evolving constrained reinforcement learning policy”, in 2023
-International Joint Conference on Neural Networks (IJCNN), 2023 </p>
-<p>2. <b>Chengpeng Hu</b>, Ziqi Wang, Tianye Shu, Hao Tong, Julian Togelius, Xin Yao, Jialin Liu. “Reinforcement learning
-with dual-Observation for general video game playing”. IEEE Transactions on Games, vol. 15, no. 2, pp. 202-216,
-2023. </p>
+<p>7. Shuo Huang, <b>Chengpeng Hu</b>, Julian Togelius, Jialin Liu. "Generating redstone style cities in Minecraft", IEEE
+Conference on Games (CoG), 2023. (accepted) 
+<a href='https://arxiv.org/pdf/2307.09777.pdf'>[pdf]</a>
+</p>
+
+<p>6. Yunlong Zhao<sup>*</sup>, <b>Chengpeng Hu<sup>*</sup></b>, Jialin Liu. "Playing with Monte-carlo tree search", IEEE Computational Intelligence Magazine, 2023 (under revision). 
+<a href=>[pdf]</a>
+</p>
+
+<p>5. <b>Chengpeng Hu</b>, Yunlong Zhao, Ziqi Wang, Haocheng Du, Jialin Liu. "Game-based platforms for artificial
+intelligence research", IEEE Transactions on Artificial Intelligence, 2023 (under review) 
+<a href='https://arxiv.org/pdf/2304.13269.pdf'>[pdf]</a>
+</p>
+
+<p>4. <b>Chengpeng Hu</b>, Ziming Wang, Jialin Liu, Junyi Wen, Bifei Mao, Xin Yao. "Constrained reinforcement learning for
+dynamic material handling", in 2023 International Joint Conference on Neural Networks (IJCNN), 2023.
+<a href='https://arxiv.org/pdf/2305.13824.pdf'>[pdf]</a>
+</p>
+
+<p>3. <b>Chengpeng Hu</b>, Jiyuan Pei, Jialin Liu, Xin Yao. "Evolving constrained reinforcement learning policy", in 2023
+International Joint Conference on Neural Networks (IJCNN), 2023.
+<a href='https://arxiv.org/pdf/2304.09869.pdf'>[pdf]</a>
+ </p>
+ 
+<p>2. <b>Chengpeng Hu</b>, Ziqi Wang, Tianye Shu, Hao Tong, Julian Togelius, Xin Yao, Jialin Liu. "Reinforcement learning
+with dual-Observation for general video game playing". IEEE Transactions on Games, vol. 15, no. 2, pp. 202-216, 2023. 
+<a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9748033'>[pdf]</a>
+</p>
 <!-- <p>2.  Hao Tong, Qingquan Zhang, <b>Chengpeng Hu</b>, Xudong Feng, Feng Wu and Jialin Liu. “Simpler is sometimes better:
 A dynamic aero-engine calibration study”, in 2022 International Conference on Sensing and Imaging (ICSI).
 Springer, Cham, pp. 343-352, 2022.</p> -->
-<p>1. Jiyuan Pei, <b>Chengpeng Hu</b>, Jialin Liu, Yi Mei and Xin Yao. “Bi-objective splitting delivery VRP with loading
-constraints and restricted access”, in 2021 IEEE Symposium Series on Computational Intelligence (SSCI), pp. 1-9, 2021.    </p>
+<p>1. Jiyuan Pei, <b>Chengpeng Hu</b>, Jialin Liu, Yi Mei and Xin Yao. "Bi-objective splitting delivery VRP with loading
+constraints and restricted access", in 2021 IEEE Symposium Series on Computational Intelligence (SSCI), pp. 1-9, 2021.   
+<a href='https://aingames.cn/publication/pdffiles/SSCI2021_3L_SDVRP.pdf'>[pdf]</a>
+ </p>
