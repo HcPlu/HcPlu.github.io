@@ -62,7 +62,7 @@ Scholarships & Grants
   }
   
   .gif-container img {
-      width: 150px; /* Adjust the width of the images as per your preference */
+      width: 200px; /* Adjust the width of the images as per your preference */
       height: auto; /* Keep the aspect ratio */
       margin-right: 20px;
   }
@@ -71,6 +71,11 @@ Scholarships & Grants
   max-width: 300px; /* Set the maximum width */
   /* height: auto; */ /* Uncomment this line to maintain the aspect ratio */
 }
+
+ 
+
+- - -
+
 </style>
 
 <p>
