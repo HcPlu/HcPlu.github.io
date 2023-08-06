@@ -7,8 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.project %}
+  {% include archive-single.html %}
+{% endfor %}
 
-
+<style>
+  .gif-container {
+      display: flex; /* Use flexbox to arrange images in a line */
+      justify-content: space-between; /* Align images with space between them */
+      max-width: 1000px; /* Set the maximum width of the container */
+      margin: 0 auto; /* Center the container horizontally */
+  }
+  
+  .gif-container img {
+      width: 45%; /* Adjust the width of the images as per your preference */
+      height: auto; /* Keep the aspect ratio */
+  }
+</style>
 
 <h2 class="archive__item-title">
 
@@ -22,6 +37,10 @@ author_profile: true
   <h3 class="archive__item-title" >
 
     <p >Investigation on Game-based platforms</p>
+    <div class="gif-container">
+      <img src="/images/projects/gplatform_map.png" alt="gplatform_map">
+      <img src="/images/projects/gplatform_gen.png" alt="gplatform_gen">
+  </div>
 </h3>
 
 <h3 class="archive__item-title" >
