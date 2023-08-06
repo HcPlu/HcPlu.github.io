@@ -58,7 +58,7 @@ Scholarships & Grants
   .gif-container {
       display: flex; /* Use flexbox to arrange images in a line */
       justify-content: flex-start; /* Align images with space between them */
-      max-width: 300px; /* Set the maximum width of the container */
+      max-width: 100px; /* Set the maximum width of the container */
   }
   
   .gif-container img {
@@ -74,6 +74,8 @@ Scholarships & Grants
 </style>
 
 <p>
+<div class="gif-container">
       <img src="/images/logo/sustech.png" alt="gplatform_map">
       <img src="/images/logo/log.png" alt="gplatform_gen">
+  </div>
 </p>
