@@ -53,6 +53,7 @@ Scholarships & Grants
   * Supervised by Dr. Jialin Liu, Prof. Kay Chen Tan (PolyU) and Prof. Xin Yao
 * Sony AI Scholarship, 2022
 
+- - -
 
 <style>
   .gif-container {
@@ -69,7 +70,7 @@ Scholarships & Grants
 
  
 
-- - -
+
 
 </style>
 
