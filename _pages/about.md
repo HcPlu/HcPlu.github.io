@@ -52,3 +52,28 @@ Scholarships & Grants
 * IEEE CIS Graduate Student Research Grants (only 6 awarded globally), 2023
   * Supervised by Dr. Jialin Liu, Prof. Kay Chen Tan (PolyU) and Prof. Xin Yao
 * Sony AI Scholarship, 2022
+
+
+<style>
+  .gif-container {
+      display: flex; /* Use flexbox to arrange images in a line */
+      justify-content: flex-start; /* Align images with space between them */
+      max-width: 300px; /* Set the maximum width of the container */
+  }
+  
+  .gif-container img {
+      width: auto; /* Adjust the width of the images as per your preference */
+      height: auto; /* Keep the aspect ratio */
+      margin-right: 20px;
+  }
+
+  .resized-image {
+  max-width: 300px; /* Set the maximum width */
+  /* height: auto; */ /* Uncomment this line to maintain the aspect ratio */
+}
+</style>
+
+<p>
+      <img src="/images/logo/sustech.png" alt="gplatform_map">
+      <img src="/images/logo/log.png" alt="gplatform_gen">
+</p>
