@@ -58,11 +58,11 @@ Scholarships & Grants
   .gif-container {
       display: flex; /* Use flexbox to arrange images in a line */
       justify-content: flex-start; /* Align images with space between them */
-      max-width: 150px; /* Set the maximum width of the container */
+      max-width: 180px; /* Set the maximum width of the container */
   }
   
   .gif-container img {
-      width: 150px; /* Adjust the width of the images as per your preference */
+      width: 100%; /* Adjust the width of the images as per your preference */
       height: auto; /* Keep the aspect ratio */
       margin-right: 20px;
   }
