@@ -61,11 +61,6 @@ Scholarships & Grants
       max-width: auto; /* Set the maximum width of the container */
   }
   
-  .gif-container img {
-      width: 200px; /* Adjust the width of the images as per your preference */
-      height: auto; /* Keep the aspect ratio */
-      margin-right: 20px;
-  }
 
   .resized-image {
   max-width: 180px; /* Set the maximum width */
@@ -79,8 +74,14 @@ Scholarships & Grants
 </style>
 
 <p>
-<!-- <div class="gif-container"> -->
       <img src="/images/logo/sustech.png" alt="gplatform_map" class="resized-image">
-      <img src="/images/logo/log.png" alt="gplatform_gen"class="resized-image">
-  <!-- </div> -->
+      <img src="/images/logo/log.png" alt="gplatform_gen" class="resized-image">
+
+</p>
+
+<p>
+<div class="gif-container">
+      <img src="/images/logo/sustech.png" alt="gplatform_map" class="resized-image">
+      <img src="/images/logo/log.png" alt="gplatform_gen" class="resized-image">
+  </div>
 </p>
