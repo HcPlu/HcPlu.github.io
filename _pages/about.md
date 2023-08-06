@@ -68,7 +68,7 @@ Scholarships & Grants
   }
 
   .resized-image {
-  max-width: 300px; /* Set the maximum width */
+  max-width: 180px; /* Set the maximum width */
   /* height: auto; */ /* Uncomment this line to maintain the aspect ratio */
 }
 
@@ -79,8 +79,8 @@ Scholarships & Grants
 </style>
 
 <p>
-<div class="gif-container">
-      <img src="/images/logo/sustech.png" alt="gplatform_map">
-      <img src="/images/logo/log.png" alt="gplatform_gen">
-  </div>
+<!-- <div class="gif-container"> -->
+      <img src="/images/logo/sustech.png" alt="gplatform_map" class="resized-image">
+      <img src="/images/logo/log.png" alt="gplatform_gen"class="resized-image">
+  <!-- </div> -->
 </p>
