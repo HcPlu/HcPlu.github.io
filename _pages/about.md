@@ -75,13 +75,7 @@ Scholarships & Grants
 
 <p>
       <img src="/images/logo/sustech.png" alt="gplatform_map" class="resized-image">
-      <img src="/images/logo/log.png" alt="gplatform_gen" class="resized-image">
+      <img src="/images/logo/log.png" alt="gplatform_gen" style="max-width: 300px">
 
 </p>
 
-<p>
-<div class="gif-container">
-      <img src="/images/logo/sustech.png" alt="gplatform_map" class="resized-image">
-      <img src="/images/logo/log.png" alt="gplatform_gen" class="resized-image">
-  </div>
-</p>
