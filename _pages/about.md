@@ -23,7 +23,7 @@ My research interests include real-time controlling with safty guarantee, game A
 Education
 -----
 * B.E. in Computer Science and Technology, Southern University of Science and Technology, 2021
-* M.E. in Electronic Science and Technology, Southern University of Science and Technology, 2024 (expected)
+* M.E. in Electronics Science and Technology, Southern University of Science and Technology, 2024 (expected)
 
 Work experience
 -----
