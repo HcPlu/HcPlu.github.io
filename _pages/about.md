@@ -17,8 +17,18 @@ My name is Chengpeng Hu. I am currently a master student at the Department of Co
 
 </p>
 
+I am insterested in applying (single-/multi-agent, constrained) reinforcemnet learning and evolutionary computations for decision-making problems such as robotics, game, routing and scheduling for safety, generalisation and robutness.
 
-My research interests include real-time controlling with safty guarantee, game AI, reinforcement learning and evolutionary computations.
+My research areas include:
+* Game AI
+    * General video game playing: Train AI agents to play on unseen levels
+    * Game for AI education
+* Real-time controlling with safty guarantee (torque, collision, energy)
+    * Robotic controlling via reinforcement learning
+    * Multi-robot task allocation: Path finding with unlabelled targets
+* Smart Logistics
+    * Apply AI techinques to real world optimisation problems in logistics such as vehicle routing problem and dynamic material handling
+    * Learning-based methods (reinforcement learning) for scheduling automated guided vehicles with safety constraints
 
 Education
 -----
