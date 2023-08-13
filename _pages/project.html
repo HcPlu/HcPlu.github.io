@@ -47,7 +47,16 @@ author_profile: true
      assuming that it is more likely to observe similar local information in different levels rather than global information. 
      Instead of directly inputting a single, raw pixel-based screenshot of the current game screen, our proposed general technique takes the encoded, 
      transformed global and local observations of the game screen as two simultaneous inputs, aiming at learning local information for playing new levels.
+    <br>
+    <li>
+      <b>Chengpeng Hu</b>, Ziqi Wang, Tianye Shu, Hao Tong, Julian Togelius, Xin Yao, Jialin Liu. "Reinforcement learning
+      with dual-Observation for general video game playing". IEEE Transactions on Games, vol. 15, no. 2, pp. 202-216, 2023. 
+      <a href='https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9748033'>[pdf]</a>
+    </li>
 
+    <li>
+      Code repository: <a href="https://github.com/SUSTechGameAI/DORL"> https://github.com/SUSTechGameAI/DORL</a>
+    </li>
   </p>
   <div class="gif-container">
     <img src="/images/projects/dorl.png" alt="gplatform_gen" style="max-width: 500px">
@@ -67,10 +76,17 @@ author_profile: true
   Games have been the perfect test-beds for artificial intelligence research for the characteristics that widely exist in real-world scenarios. 
   Learning and optimisation, decision making in dynamic and uncertain environments, game theory, planning and scheduling, design and education are common research areas shared between games and real-world problems. 
   Numerous open-source games or game-based environments have been implemented for studying artificial intelligence. 
-  In addition to single- or multi-player, collaborative or adversarial games, there has also been growing interest in implementing platforms for creative design in recent years. 
-  Those platforms provide ideal benchmarks for exploring and comparing artificial intelligence ideas and techniques. 
-  This paper reviews the game-based platforms for artificial intelligence research, discusses the research trend induced by the evolution of those platforms, 
-  and gives an outlook.
+  <br>
+  <li>
+    Collection of Game-based Platforms: <a href="https://github.com/SUSTechGameAI/GameAIPlatforms">https://github.com/SUSTechGameAI/GameAIPlatforms </a>  
+  </li>
+  <li>
+    <b>Chengpeng Hu</b>, Yunlong Zhao, Ziqi Wang, Haocheng Du, Jialin Liu. "Game-based platforms for artificial
+    intelligence research", IEEE Transactions on Artificial Intelligence, 2023 (under review) 
+    <a href='https://arxiv.org/pdf/2304.13269.pdf'>[pdf]</a>
+  </li>
+
+
 </p>
 
 <div class="gif-container">
@@ -100,6 +116,11 @@ author_profile: true
   <p >Safe Real-time Controlling</p>
 </h2>
 
+<p>
+
+Decision making in real-time systems is challenging due to the uncertainty of the environment and the limited time for making decisions. Many work such as reinforcement learning have shown
+the capability of learning in real-time. However, the safety of the system may not be not guaranteed. I am working on how to make "safe" decisions in real-time systems.
+</p>
   <h3 class="archive__item-title" >
 
     <p >Single-agent robot controlling via evolutionary contrained reinforcement learning</p>
@@ -129,21 +150,46 @@ author_profile: true
 <h2 class="archive__item-title">
 
   <p >Smart Logistics</p>
+</h2>
 
+<p>
+Smart logistics is a promising application of AI in the real world. I am interested in how AI can be used to improve the efficiency of logistics, while considering the problem constraints.
+
+</p>
   <h3 class="archive__item-title" >
 
     <p >Dynamic material handling</p>
-    <div class="gif-container">
-      <img src="/images/projects/map.png" alt="gplatform_gen" style="max-width: 250px">
-      <img src="/images/projects/agv.gif" alt="gplatform_map" style="max-width: 350px">
-  </div>
-</h3>
 
+</h3>
+<p>
+  As one of the core parts of flexible manufacturing systems, material handling involves the storage and transportation of materials between workstations with automated vehicles. 
+  The improvement in material handling can impulse the overall efficiency of the manufacturing system.
+  However, the occurrence of dynamic events during the optimisation of task arrangements poses a challenge that requires adaptability and effectiveness. 
+  Motivated by some real-world scenarios, unknown new tasks and unexpected vehicle breakdowns are regarded as dynamic events in our problem. 
+  We formulate the problem as a constrained Markov decision process which takes into account tardiness and available vehicles as cumulative and instantaneous constraints, respectively. 
+  An adaptive constrained reinforcement learning algorithm that combines Lagrangian relaxation and invalid action masking, named RCPOM, 
+  is proposed to address the problem with two hybrid constraints.
+</p>
+
+<br>
+<li>
+  DMH-GYM: <a href="https://github.com/HcPlu/DMH-GYM">https://github.com/HcPlu/DMH-GYM </a>  
+</li>
+<li>
+  <b>Chengpeng Hu</b>, Ziming Wang, Jialin Liu, Junyi Wen, Bifei Mao, Xin Yao. "Constrained reinforcement learning for
+dynamic material handling", in 2023 International Joint Conference on Neural Networks (IJCNN), 2023, pp. 1-9, doi: 10.1109/IJCNN54540.2023.10191999.
+<a href='https://arxiv.org/pdf/2305.13824.pdf'>[pdf]</a>
+</li>
+
+<div class="gif-container">
+  <img src="/images/projects/map.png" alt="gplatform_gen" style="max-width: 250px">
+  <img src="/images/projects/dmh.gif" alt="gplatform_map" style="max-width: 350px">
+  <img src="/images/projects/agv.gif" alt="gplatform_map" style="max-width: 350px">
+</div>
 
 <h3 class="archive__item-title" >
 
-<p >Split delivery vehicle routing problems with
-  three-dimensional loading constraints</p>
-  <img src="/images/projects/3L-SDVRP.png" alt="gplatform_map" class="resized-image">
+<p >Split delivery vehicle routing problems with three-dimensional loading constraints</p>
 </h3>
-</h2>
+
+<img src="/images/projects/3L-SDVRP.png" alt="gplatform_map" class="resized-image">
