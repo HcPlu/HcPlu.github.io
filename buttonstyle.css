@@ -1,0 +1,66 @@
+body {
+  /* margin: 0; */
+  font-family: Arial, sans-serif; /* Set the background color to white */
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+@media screen and (max-width: 1000px) {
+  .container {
+    padding: 0;
+  }
+
+  .txtimg {
+    flex-direction: column;
+  }
+}
+
+.txtimg {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #f49e1e;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
