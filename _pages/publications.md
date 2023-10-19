@@ -48,7 +48,7 @@ Conference on Games (CoG), 2023. (accepted)
 <a href='https://arxiv.org/pdf/2307.09777.pdf'>[pdf]</a>
 </p>
 
-<p>6. Yunlong Zhao<sup>*</sup>, <b>Chengpeng Hu<sup>*</sup></b>, Jialin Liu. "Playing with Monte-carlo tree search", IEEE Computational Intelligence Magazine, 2023 (under revision). 
+<p>6. Yunlong Zhao<sup>*</sup>, <b>Chengpeng Hu<sup>*</sup></b>, Jialin Liu. "Playing with Monte-carlo tree search", IEEE Computational Intelligence Magazine, 2023. 
 <!-- <a href=>[pdf]</a> -->
 </p>
 
