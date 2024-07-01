@@ -51,8 +51,8 @@ evolutionary learning”, 2023 (on-going). </p> -->
 <p>9. Shiying Hu<sup>*</sup>, Zengrong Huang<sup>*</sup>, <b>Chengpeng Hu</b>, Jialin Liu. “3D building generation in Minecraft via large language models”, in IEEE Conference on Games, 2024, pp. 1-4.
 </p>
 
-<p>8. <b>Chengpeng Hu</b>, Yunlong Zhao, Ziqi Wang, Haocheng Du, Jialin Liu. "Game-based platforms for artificial
-intelligence research", IEEE Transactions on Artificial Intelligence, 2024 (accepted).
+<p>8. <b>Chengpeng Hu</b>, Yunlong Zhao, Ziqi Wang, Haocheng Du, Jialin Liu. "Games for artificial intelligence research: A
+review and perspectives", IEEE Transactions on Artificial Intelligence, 2024 (accepted).
 <a href='https://arxiv.org/pdf/2304.13269.pdf'>[pdf]</a>
 </p>
 
