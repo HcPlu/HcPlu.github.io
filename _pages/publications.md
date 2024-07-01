@@ -45,12 +45,10 @@ author_profile: true
 evolutionary learning”, 2023 (on-going). </p> -->
 
 
-<p>10. <b>Chengpeng Hu</b><sup>*</sup>, Yunlong Zhao<sup>*</sup>, Jialin Liu. “Game generation via large language models”, in IEEE Conference on
-Games, 2024, pp. 1-4.</a>
+<p>10. <b>Chengpeng Hu</b><sup>*</sup>, Yunlong Zhao<sup>*</sup>, Jialin Liu. “Game generation via large language models”, in IEEE Conference on Games, 2024, pp. 1-4.
 </p>
 
-<p>9. Shiying Hu<sup>*</sup>, Zengrong Huang<sup>*</sup>, <b>Chengpeng Hu</b>, Jialin Liu. “3D building generation in Minecraft via large
-language models”, in IEEE Conference on Games, 2024, pp. 1-4.</a>
+<p>9. Shiying Hu<sup>*</sup>, Zengrong Huang<sup>*</sup>, <b>Chengpeng Hu</b>, Jialin Liu. “3D building generation in Minecraft via large language models”, in IEEE Conference on Games, 2024, pp. 1-4.
 </p>
 
 <p>8. <b>Chengpeng Hu</b>, Yunlong Zhao, Ziqi Wang, Haocheng Du, Jialin Liu. "Game-based platforms for artificial
