@@ -13,7 +13,7 @@ redirect_from:
     }
   </style>
 <p class="text-justify">
-I am Chengpeng Hu, currently a PhD student with Eindhoven University of Technology. I obtained B.E. and M.E. degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), under the supervision of <a href = 'http://www.liujialin.tech/index.html'> Dr. Jialin Liu </a> and <a href = 'https://cse.sustech.edu.cn/faculty/~xiny/'>Prof. Xin Yao </a>, with <a href = 'https://aingames.cn/'> Learning and Optimization in Games (LOG) Group</a> and <a href = 'https://cse.sustech.edu.cn/faculty/~xiny/'>OPtimization And Learning (OPAL) laboratory </a>. 
+I am Chengpeng Hu, currently a PhD student with Eindhoven University of Technology, supervised by  <a href='https://www.hendrikbaier.com'>Dr. Hendrik Baier </a>. I obtained B.E. and M.E. degree from the Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech), under the supervision of <a href = 'http://www.liujialin.tech/index.html'> Dr. Jialin Liu </a> and <a href = 'https://cse.sustech.edu.cn/faculty/~xiny/'>Prof. Xin Yao </a>, with <a href = 'https://aingames.cn/'> Learning and Optimization in Games (LOG) Group</a> and <a href = 'https://cse.sustech.edu.cn/faculty/~xiny/'>OPtimization And Learning (OPAL) laboratory </a>. 
 
 </p>
 
@@ -91,6 +91,7 @@ Scholarships & Grants
 </style>
 
 <p>
+      <img src="/images/logo/TUe-logo-scarlet-L.jpg" alt="gplatform_gen" style="max-width: 300px">
       <img src="/images/logo/sustech.png" alt="gplatform_map" class="resized-image">
       <img src="/images/logo/log.png" alt="gplatform_gen" style="max-width: 300px">
 
